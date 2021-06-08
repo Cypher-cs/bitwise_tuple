@@ -1,0 +1,3 @@
+C:/Users/Prajjwal/CLionProjects/bitwise_tuple/cmake-build-debug/CMakeFiles/bitwise_tuple.dir
+C:/Users/Prajjwal/CLionProjects/bitwise_tuple/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Prajjwal/CLionProjects/bitwise_tuple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
